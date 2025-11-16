@@ -70,8 +70,8 @@ I focus on building **beautiful, simple, and clean websites**, including **custo
 ---
 
 ### ✨ Thanks for visiting my profile!  
-I’m still learning — but improving every single day 💪🌸  
+I’m still learning — but improving every single day  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imenedevspace&color=pink&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=imenedevspace&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
